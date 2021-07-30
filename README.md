@@ -3,3 +3,4 @@
 ![SecretNumber-Image-w10](https://user-images.githubusercontent.com/81016471/127721114-eff84c2a-d4d8-4abe-894c-cb4b01d6f122.png)
 
 
+<img src="https://user-images.githubusercontent.com/81016471/127721114-eff84c2a-d4d8-4abe-894c-cb4b01d6f122.png" width = "80%" />
