@@ -17,15 +17,17 @@
 
 ### 實際遊玩範例：
 
-    * 當猜測的數字錯誤時，會顯示提示，例如：
+  * 當猜測的數字錯誤時，會顯示提示，例如：
 <img src="https://user-images.githubusercontent.com/81016471/127723369-ab4f803d-b0d5-4f46-872f-a9768e7b93ee.png" width=80% />
 </br>
 
-    * 當過關時，會出現氣球：
+  * 當過關時，會出現氣球：
 <img src="https://user-images.githubusercontent.com/81016471/127723262-f9965b5b-aaaa-418e-9511-c380a9798ede.png" width="80%" />
 </br>
 
-
+  * 當並未輸入正確範圍(1~100)的數字時，會彈跳出如下提示：
 ![Image 001](https://user-images.githubusercontent.com/81016471/127738458-08bd53b3-d58c-4e1c-9e31-cf13b582ecfc.png)
+
+
 
 
