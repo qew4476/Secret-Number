@@ -6,7 +6,7 @@
 // document.querySelector('.highscore').textContent=5; //抓分數
 
 //set screatnumber
-let scretnumber = Number(Math.trunc(Math.random() * 20));
+let scretnumber = Number(Math.trunc(Math.random() * 100));
 
 
 let score = 20;
@@ -69,7 +69,7 @@ document.querySelector(".check").addEventListener("click", function () {
 
 document.querySelector(".again").addEventListener('click', function () {
 
-  scretnumber = Number(Math.trunc(Math.random() * 20));
+  scretnumber = Number(Math.trunc(Math.random() * 100));
   score = 20;
   document.querySelector('.score').textContent = score;
   document.querySelector('#message').textContent = "請猜猜看正確數字是多少";
