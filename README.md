@@ -33,7 +33,7 @@
 ![Image 001](https://user-images.githubusercontent.com/81016471/127738458-08bd53b3-d58c-4e1c-9e31-cf13b582ecfc.png)
 
 
-```C
+```c
 #include <stdio.h>
 
 int main(void) {
