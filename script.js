@@ -55,7 +55,7 @@ document.querySelector(".check").addEventListener("click", function () {
       ).textContent = `正確答案！沒錯是${guess}！`;
 
       //更改頁面
-      document.querySelector("body").style.backgroundImage = "balloons-1869816__340.webp";
+      document.querySelector("body").style.backgroundImage = ("url('balloons-1869816__340.webp')");
 
 
       if (score > highscore) {
