@@ -25,9 +25,10 @@
 <img src="https://user-images.githubusercontent.com/81016471/127723262-f9965b5b-aaaa-418e-9511-c380a9798ede.png" width="80%" />
 </br>
 
-  * 當並未輸入正確範圍(1~100)的數字時，會彈跳出如下提示：
+  * 若未輸入正確範圍(1~100)的數字時，會彈跳出如下提示：
 ![Image 001](https://user-images.githubusercontent.com/81016471/127738458-08bd53b3-d58c-4e1c-9e31-cf13b582ecfc.png)
 
+# * 我早就 
 
 
 
