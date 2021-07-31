@@ -32,12 +32,13 @@
   * 若未輸入正確範圍(1~100)的數字時，會彈跳出如下提示：
 ![Image 001](https://user-images.githubusercontent.com/81016471/127738458-08bd53b3-d58c-4e1c-9e31-cf13b582ecfc.png)
 
+
+```C
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello World!\n");
+    return 0;
+}
 ```
-let a=0;
-```
 
-
-
-第一行  
-第二行
-    第三行
