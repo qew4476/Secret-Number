@@ -32,7 +32,10 @@
   * 若未輸入正確範圍(1~100)的數字時，會彈跳出如下提示：
 ![Image 001](https://user-images.githubusercontent.com/81016471/127738458-08bd53b3-d58c-4e1c-9e31-cf13b582ecfc.png)
 
-* 我早就 
+```
+let a=0;
+```
+
 
 
 第一行  
