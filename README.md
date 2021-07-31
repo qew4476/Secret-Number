@@ -20,8 +20,9 @@
 * 當猜測的數字比正確答案大，會顯示「你輸入的數字過大」：
 <img src="https://user-images.githubusercontent.com/81016471/127723369-ab4f803d-b0d5-4f46-872f-a9768e7b93ee.png" width=80% />
 
-
-
+```
+是的
+```
 
 
 * 當過關時，會出現氣球：
