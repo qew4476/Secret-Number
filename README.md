@@ -19,6 +19,9 @@
 <img src="https://user-images.githubusercontent.com/81016471/127723369-ab4f803d-b0d5-4f46-872f-a9768e7b93ee.png" width=80% />
 
 
+
+
+
 * 當過關時，會出現氣球：
 <img src="https://user-images.githubusercontent.com/81016471/127723262-f9965b5b-aaaa-418e-9511-c380a9798ede.png" width="80%" />
 
