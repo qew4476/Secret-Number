@@ -22,7 +22,7 @@
 ### 實際遊玩範例：
 
   * 當猜測的數字錯誤時，會顯示提示，例如：
-: <img src="https://user-images.githubusercontent.com/81016471/127723369-ab4f803d-b0d5-4f46-872f-a9768e7b93ee.png" width=80% />
+<img src="https://user-images.githubusercontent.com/81016471/127723369-ab4f803d-b0d5-4f46-872f-a9768e7b93ee.png" width=80% />
 </br>
 
   * 當過關時，會出現氣球：
@@ -36,5 +36,5 @@
 
 
 第一行  
-第二行 
-第三行
+第二行
+  第三行
