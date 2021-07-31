@@ -15,10 +15,11 @@
 
 ### 實際遊玩範例：
 
-* 當猜測的數字比正確答案大，會顯示如下提示：
-![Image 002](https://user-images.githubusercontent.com/81016471/127723315-3162fc68-de1d-4449-b597-86cffde50506.png width="80%")
+* 當猜測的數字比正確答案大，會顯示「你輸入的數字過大」：
+<img src="https://user-images.githubusercontent.com/81016471/127723315-3162fc68-de1d-4449-b597-86cffde50506.png width" width=80% />
 
 
-
-* 當過關時，會出現以下畫面：
+* 當過關時，會出現氣球：
 <img src="https://user-images.githubusercontent.com/81016471/127723262-f9965b5b-aaaa-418e-9511-c380a9798ede.png" width="80%" />
+
+
